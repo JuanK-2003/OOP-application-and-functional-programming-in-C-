@@ -1,0 +1,10 @@
+C:\Users\918801\source\repos\Persons\bin\Debug\Persons.exe.config
+C:\Users\918801\source\repos\Persons\bin\Debug\Persons.exe
+C:\Users\918801\source\repos\Persons\bin\Debug\Persons.pdb
+C:\Users\918801\source\repos\Persons\obj\Debug\Persons.csprojAssemblyReference.cache
+C:\Users\918801\source\repos\Persons\obj\Debug\Persons.Properties.Resources.resources
+C:\Users\918801\source\repos\Persons\obj\Debug\Persons.csproj.GenerateResource.cache
+C:\Users\918801\source\repos\Persons\obj\Debug\Persons.csproj.CoreCompileInputs.cache
+C:\Users\918801\source\repos\Persons\obj\Debug\Persons.exe
+C:\Users\918801\source\repos\Persons\obj\Debug\Persons.pdb
+C:\Users\918801\source\repos\Persons\obj\Debug\Persons.Persons.resources
